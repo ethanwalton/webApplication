@@ -10,4 +10,8 @@ page of our own designed from the bottom up.
 For our final project we are creating a social media web application that consists of HTML, CSS, and 
 Javascript.*
 
-
+Languages Used
+---
+* HTML
+* CSS
+* Javascript
